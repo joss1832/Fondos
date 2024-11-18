@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/gatito.jpg);
+    background-size: 100%;
+    text-align: center ;
+
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #f4e033;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(255, 155, 0, 0.4);
+    color: rgb(255, 255, 255, 0.4);
+
+}
